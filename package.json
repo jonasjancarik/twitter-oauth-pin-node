@@ -1,0 +1,15 @@
+{
+  "name": "twitter-oauth-pin-node",
+  "version": "1.0.0",
+  "description": "Simple command-line tool to obtain Twitter API Oauth keys using PIN-based authorization",
+  "main": "twitter-oauth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas Jancarik",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "twitter-pin": "^1.0.0"
+  }
+}
