@@ -5,7 +5,8 @@ You will need your app's consumer API keys - you can get those at https://develo
 
 ## Installation
 
-```git clone https://github.com/jonasjancarik/twitter-oauth-pin-node.git
+```
+git clone https://github.com/jonasjancarik/twitter-oauth-pin-node.git
 cd twitter-oauth-pin-node.git
 npm install
 ```
